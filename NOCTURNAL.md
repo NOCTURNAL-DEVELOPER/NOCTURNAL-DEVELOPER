@@ -10,6 +10,6 @@
 - 🍂 Which led me to pursue Engineering.
 
 <!---
-NOCTURNAL-DEVELOPER/NOCTURNAL-DEVELOPER is a ✨ special ✨ repository because its `NOCTURNAL.md` (this file) appears on your GitHub profile.
+NOCTURNAL-DEVELOPER/MYSELF is a ✨ special ✨ repository because its `NOCTURNAL.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
